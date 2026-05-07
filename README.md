@@ -10,7 +10,7 @@ I am interested in mobile robotics, computer vision, and practical applications 
 
 * 🌍  I'm based in Warsaw, Poland
 * ✉️  You can contact me at [balewski.daw@gmail.com](mailto:balewski.daw@gmail.com)
-* 🧠  I'm currently learning AI Agent
+* 🧠  I'm currently learning abot AI Agents
 * 👥  I'm looking to collaborate on project based on ROS 2/Gazebo, Machine Vison
 * 💬  Ask me about CR7 GOAT!
 

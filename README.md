@@ -14,7 +14,7 @@ I am interested in mobile robotics, computer vision, and practical applications 
 * 👥  I'm looking to collaborate on project based on ROS 2/Gazebo, Machine Vison
 * 💬  Ask me about CR7 GOAT!
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></td>
